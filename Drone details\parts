@@ -1,0 +1,19 @@
+Apex 5
+weight: 138g
+Wheelbase: 225mm
+Size: 130*183mm
+Arms: 5.5mm
+Top: 2.5mm
+Side: 2.0mm
+
+Configuration: Betaflight / BLheli
+Flight Controller: Mamba F405 Basic MK3
+Motors: T-motor Velox 2207 - 2550kv
+ESC: Mamba F405 F40
+Propeller: 5046C
+Battery: Tattu 4S 1800mAh 75c
+Camera: RunCam Swift Mini 2
+VTX: Mamba Ultra 1w
+Transmitter: RadioMaster TX12 
+Reciver:TBS Crossfire nano RX/TX
+Goggles: Skyzone Cobra x V2

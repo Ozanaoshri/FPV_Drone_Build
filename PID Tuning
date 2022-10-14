@@ -1,0 +1,36 @@
+motor_pwm_protocol = DSHOT600  
+motor_pwm_rate = 480  
+
+gyro_lpf1_dyn_min_hz = 225  
+gyro_lpf1_dyn_max_hz = 450  
+
+acc_calibration = 42,-50,-88,1  
+
+rc_smoothing_auto_factor_throttle = 30  
+
+airmode_start_throttle_percent = 25  
+
+min_throttle = 1070  
+max_throttle = 2000  
+
+iterm_relax = RP  
+iterm_relax_type = SETPOINT  
+
+acro_trainer_gain = 75  
+
+p_pitch = 42  
+i_pitch = 75  
+d_pitch = 41  
+f_pitch = 112  
+
+
+p_roll = 40  
+i_roll = 72  
+d_roll = 36  
+f_roll = 108  
+
+
+p_yaw = 40  
+i_yaw = 72  
+d_yaw = 0  
+f_yaw = 108  

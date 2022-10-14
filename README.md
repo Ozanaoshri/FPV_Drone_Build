@@ -1,4 +1,5 @@
 # FPV_Drone
+![Deadsea](https://user-images.githubusercontent.com/115695944/195816404-aa9e5538-14d6-43cc-9f3c-9f22759080d7.jpg)  
 
 
 ImpulseRC Apex5  
@@ -29,6 +30,10 @@ Pilot: ME
 Configuration: Betaflight / BLheli  
 Gopro HERO 7 Black  
 3D prints: Arms, CRSF nanoRX, Gopro, Antenna, Frame.  
+
+
+![Nizanim](https://user-images.githubusercontent.com/115695944/195817180-1eb2e3f0-32b2-4355-97f0-ff1b0bebe360.jpg)  
+
 
 https://user-images.githubusercontent.com/115695944/195800699-20afd07a-8b13-4db9-9684-27de2e80bf78.mp4
 
